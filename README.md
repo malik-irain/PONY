@@ -1,0 +1,1 @@
+# Plugins Outside Native PyMoDAQ 
